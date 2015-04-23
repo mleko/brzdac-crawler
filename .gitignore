@@ -1,0 +1,5 @@
+/nbproject/
+*.log.xml
+*.log.xml.lck
+build
+dist
